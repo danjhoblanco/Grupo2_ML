@@ -13,8 +13,8 @@ La enfermedad cardíaca es una de las principales causas de muerte a nivel mundi
 ## 📁 Estructura del repositorio
 ## 🔗 Recursos del proyecto
 
-- [🔍 Notebook en Google Colab]([https://colab.research.google.com/github/tu_usuario/tu_repo/blob/main/notebook.ipynb](https://colab.research.google.com/drive/1i3876AV1c8hCbnVVztXwQNNN-xg1wRBx?usp=sharing))
-- [📂 Dataset en GitHub]([https://github.com/tu_usuario/tu_repo/blob/main/cleveland_dataset.csv](https://raw.githubusercontent.com/danjhoblanco/Grupo2_ML/main/cleveland_dataset.csv))
-- [🌐 App en Streamlit Cloud](https://[tu-app.streamlit.app/](https://grupo2-app.streamlit.app/))
+- [🔍 Notebook en Google Colab](https://colab.research.google.com/drive/1i3876AV1c8hCbnVVztXwQNNN-xg1wRBx?usp=sharing)
+- [📂 Dataset en GitHub](https://raw.githubusercontent.com/danjhoblanco/Grupo2_ML/main/cleveland_dataset.csv)
+- [🌐 App en Streamlit Cloud](https://grupo2-app.streamlit.app/)
 
 
