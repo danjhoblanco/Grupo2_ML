@@ -11,7 +11,6 @@ Este proyecto fue desarrollado por el **Grupo 2**, como parte del curso de Machi
 |-------------------------------------------|-----------|
 | 🧑‍💻 DANIEL JOSE BLANCO VICTORIO          | Estudiante |
 | 👩‍💻 ELIZABETH DANY ARAUJO ROBLES         | Estudiante |
-| 🧑‍💻 JOSE ANTONIO CHAUCA CARHUAJULCA      | Estudiante |
 | 🧑‍💻 LUIS EDUARDO FLORES ZAVALA           | Estudiante |
 | 🧑‍🏫 ROBERTO BUENO CUADRA                 | Estudiante |
 ## ✅ Justificación
