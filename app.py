@@ -53,9 +53,6 @@ if st.button("🔍 Predecir"):
     prediction = model.predict(input_data)[0]
     probability = model.predict_proba(input_data)[0][1]
 
-    # Resultado
+      # Resultado directo
     st.subheader("🩺 Resultado:")
-    if prediction == 1:
-        st.error(f"⚠ Riesgo de enfermedad cardíaca detectado. Probabilidad: {probability:.2%}")
-    else:
-        st.success(f"✅ No se detecta riesgo significativo. Probabilidad: {probability:.2%}")
+    st.write(f"**{int(prediction)}** → {'Presenta' if prediction == 1 else 'No presenta'} enfermedad cardíaca")
