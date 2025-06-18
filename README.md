@@ -11,11 +11,10 @@ La enfermedad cardíaca es una de las principales causas de muerte a nivel mundi
 ---
 
 ## 📁 Estructura del repositorio
-Grupo2_ML/
-│
-├── app.py # Aplicación web con Streamlit
-├── cleveland_dataset.csv # Dataset original
-├── heart_disease_model.pkl # Modelo entrenado (RandomForest)
-├── requirements.txt # Dependencias para correr la app
-├── notebook.ipynb # Análisis, entrenamiento y evaluación
-└── README.md # Este archivo
+## 🔗 Recursos del proyecto
+
+- [🔍 Notebook en Google Colab](https://colab.research.google.com/github/tu_usuario/tu_repo/blob/main/notebook.ipynb)
+- [📂 Dataset en GitHub](https://github.com/tu_usuario/tu_repo/blob/main/cleveland_dataset.csv)
+- [🌐 App en Streamlit Cloud](https://tu-app.streamlit.app/)
+- [📁 Repositorio completo](https://github.com/tu_usuario/tu_repo)
+
