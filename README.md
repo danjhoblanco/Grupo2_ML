@@ -25,6 +25,24 @@ La enfermedad cardíaca es una de las principales causas de muerte a nivel mundi
 
 - [🔍 Notebook en Google Colab](https://colab.research.google.com/drive/1i3876AV1c8hCbnVVztXwQNNN-xg1wRBx?usp=sharing)
 - [📂 Dataset en GitHub](https://raw.githubusercontent.com/danjhoblanco/Grupo2_ML/main/cleveland_dataset.csv)
-- [🌐 App en Streamlit Cloud](https://grupo2-app.streamlit.app/)
 
 
+---
+
+## 🧪 ¿Cómo usar la aplicación?
+Puedes acceder directamente a la app web desde el siguiente enlace:
+[🌐 App en Streamlit Cloud](https://grupo2-app.streamlit.app/)
+  
+Al ingresar verás:
+Un formulario con 13 campos clínicos que puedes modificar.
+
+Valores por defecto ya establecidos para facilitar pruebas.
+
+Un botón "🔍 Predecir" que genera un resultado:
+
+0: No presenta enfermedad cardíaca
+
+1: Presenta enfermedad cardíaca
+
+✅ ¿Para qué sirve?
+Esta app permite probar el modelo de IA sin necesidad de instalar nada. Solo cambia los valores, presiona el botón y verás el resultado inmediatamente en pantalla.
