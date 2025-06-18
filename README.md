@@ -11,4 +11,11 @@ La enfermedad cardíaca es una de las principales causas de muerte a nivel mundi
 ---
 
 ## 📁 Estructura del repositorio
-
+Grupo2_ML/
+│
+├── app.py # Aplicación web con Streamlit
+├── cleveland_dataset.csv # Dataset original
+├── heart_disease_model.pkl # Modelo entrenado (RandomForest)
+├── requirements.txt # Dependencias para correr la app
+├── notebook.ipynb # Análisis, entrenamiento y evaluación
+└── README.md # Este archivo
